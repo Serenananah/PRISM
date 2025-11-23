@@ -1,4 +1,7 @@
 type = "publication"
 title = "Publications"
-description = "A collection of my research work."
-source = "publications.bib"
+# description = "A collection of my research work."
+description = "I do not have published works yet. One manuscript is currently under submission, and I am preparing for new work."
+# source = "publications.bib"
+source = ""
+

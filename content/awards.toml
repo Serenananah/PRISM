@@ -3,25 +3,31 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "First Prize, Asia-Pacific Mathematical Contest in Modeling (APMCM)"
+subtitle = "APMCM"
 date = "2025"
-content = "Description of the award."
+content = "Achieved first prize in the Asia-Pacific Mathematical Contest in Modeling for outstanding performance in team-based mathematical modeling."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "First Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM, Guangdong Division)"
+subtitle = "CUMCM"
+date = "2025"
+content = "Won first prize in the Guangdong division of CUMCM for excellence in mathematical modeling under complex problem scenarios."
+
+[[items]]
+title = "Third Prize, 19th 'Challenge Cup' Extracurricular Academic Science & Technology Competition"
+subtitle = "South China University of Technology"
+date = "2025"
+content = "Recognized for innovative research and project work in extracurricular academic competitions."
+
+[[items]]
+title = "Second Prize, Future Technology – Baidu Brain Cup Student Science & Technology Competition"
+subtitle = "Baidu Brain Cup"
 date = "2024"
-content = "Description of the award."
+content = "Awarded second prize for contributions in AI and technology-related student competitions."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "First-Class Academic Scholarship & 'Future Technology Taihu Innovation Award'"
+subtitle = "South China University of Technology"
+date = "2024"
+content = "Received top academic scholarship and recognition for innovative achievements in technology research."
